@@ -212,4 +212,4 @@ async def on_guild_channel_pins_update(channel, last_pin):
 client.run('MTAwOTEyNjIzMTU4Njg5ODAyMg.GOPYKu.B3uxCiiU9IEOp3mWgoPe5Rq6b6w5Ynptc25Ews')
 
 # TODO If using GitHub diff deployment on HeroKu comment out the above line with '#' and remove '#' from the line below to uncomment it. 
-#client.run(os.environ.get('MTE2MzEzMDI4MzU5MjI2OTk1Ng.Gp7j2B.Vl9kAm6fGHKv517pdmylzuB8wfRwImapTjUTXM'))
+client.run(os.environ.get('MTE2MzEzMDI4MzU5MjI2OTk1Ng.Gp7j2B.Vl9kAm6fGHKv517pdmylzuB8wfRwImapTjUTXM'))
